@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596123465526",
+    "project_id": "firbasejulynew",
+    "storage_bucket": "firbasejulynew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596123465526:android:d849cf17f90a02fa336597",
+        "android_client_info": {
+          "package_name": "com.example.firbasejulyeg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9_RDJIACcCcUUwEz0ZvwB1DSiztzSXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
